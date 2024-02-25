@@ -1,16 +1,23 @@
-### Hi there 👋
+<br clear="both">
 
-<!--
-**skarrlatina/skarrlatina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=skarrlatina.skarrlatina&left_color=black&right_color=mediumslateblue"  />
+</div>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img height="650" src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-797.gif"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+</div>
+
+###
